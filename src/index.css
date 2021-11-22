@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.lists {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #e6dcdc;
+  height: 60px;
+}
+.link1 {
+  text-decoration: none;
+}
+.link2 {
+  text-decoration: none;
+}
+.blog-lookup {
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+}
+.bloglink {
+  text-decoration: none;
+}
